@@ -2,3 +2,7 @@ LAB 2 Adding New Text
 Learning GitHub
 This is difficult
 Completely lost
+
+one 
+two
+three
